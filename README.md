@@ -113,8 +113,4 @@ Contributions are welcome! If you'd like to help improve this project, please fo
 <img src="https://github.com/user-attachments/assets/d006fd9c-f31d-496c-ab7a-23e7886748d9" alt="Screenshot 2024-09-15 214125" width="600" height="300">
 <img src="https://github.com/user-attachments/assets/84786eb4-f52d-4e01-b18c-cf9cd15121c9" alt="Screenshot 2024-09-15 214139" width="600" height="300">
 
-## Contact
 
-- **Author**: Anoushka Srivastava
-- **Email**: anoushkathegreat28@gmail.com/anoushka.srivastava.21cse@bmu.edu.in
-- **GitHub**: [anou1234](https://github.com/anou1234)

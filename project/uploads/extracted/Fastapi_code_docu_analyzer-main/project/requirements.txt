@@ -1,0 +1,6 @@
+fastapi
+redis
+types-redis
+uvicorn
+google.generativeai
+python-multipart

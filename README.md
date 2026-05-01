@@ -109,8 +109,7 @@ Contributions are welcome! If you'd like to help improve this project, please fo
 4. **Push to Your Branch**: 
 5. **Submit a Pull Request**: Share your changes with the main project.
 ## Webapp Screenshots
-<img src="https://github.com/user-attachments/assets/eb0ef7d7-7423-4912-a897-b8e6046f5941" alt="Screenshot 2024-09-15 214027" width="600" height="300">
-<img src="https://github.com/user-attachments/assets/d006fd9c-f31d-496c-ab7a-23e7886748d9" alt="Screenshot 2024-09-15 214125" width="600" height="300">
-<img src="https://github.com/user-attachments/assets/84786eb4-f52d-4e01-b18c-cf9cd15121c9" alt="Screenshot 2024-09-15 214139" width="600" height="300">
-
+<img src="images/screenshot1.png" alt="Landing Page" width="600" height="300">
+<img src="images/screenshot2.png" alt="Analysis Report" width="600" height="300">
+<img src="images/screenshot3.png" alt="Results" width="600" height="300">
 
